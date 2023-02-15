@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="addCardTextButton">Добавить карточку</string>
+    <string name="JoinTextButton">Перейти</string>
+    <string name="Shet">Счет</string>
+    <string name="replaceText">Заменить</string>
+</resources>
